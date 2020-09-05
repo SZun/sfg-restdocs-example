@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/api/v1/beer/9607221a-d019-45cc-8a2b-febb923b88c7?iscold=yes' -i -X GET \
+    -H 'Accept: application/json'
+----
