@@ -1,0 +1,11 @@
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/MvcExceptionHandler.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/BeerMapper.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerDto.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/repositories/BeerRepository.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/bootstrap/BeerLoader.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/SfgRestdocsExampleApplication.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerPagedList.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/DateMapper.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/BeerController.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerStyleEnum.java
+/Users/samg.zun/Documents/References/Udemy/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/domain/Beer.java
